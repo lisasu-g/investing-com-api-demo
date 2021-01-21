@@ -1,0 +1,14 @@
+{
+  "name": "investing-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "investing-com-api": "^2.1.1"
+  }
+}
